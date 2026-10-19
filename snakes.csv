@@ -1,0 +1,14 @@
+snake_id,name,species,habitat,length_cm,mass_g,venomous
+S01,Noodle,Corn snake,Forest,110,650,False
+S02,Pretzel,Ball python,Grassland,125,1400,False
+S03,Socks,Garter snake,Wetland,55,140,False
+S04,Ribbon,Kingsnake, Forest ,95,500,False
+S05,Mochi,Ball python,Grassland,100,1100,False
+S06,Zigzag,Viper,Forest,70,400,True
+S07,Pesto,Tree snake,forest,85,220,False
+S08,Pepper,Cobra,Grassland,150,1200,True
+S09,Bean,Corn snake,Forest,,450,False
+S10,Slinky,Water snake,Wetland,80,350,False
+S11,Pickle,Kingsnake,Forest,120,750,False
+S12,Waffles,Viper,Grassland,65,320,True
+S04,Ribbon,Kingsnake, Forest ,95,500,False
